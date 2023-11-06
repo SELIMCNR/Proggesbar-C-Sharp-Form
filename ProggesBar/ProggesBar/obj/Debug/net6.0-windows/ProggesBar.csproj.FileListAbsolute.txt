@@ -1,0 +1,16 @@
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project14\ProggesBar\ProggesBar\bin\Debug\net6.0-windows\ProggesBar.exe
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project14\ProggesBar\ProggesBar\bin\Debug\net6.0-windows\ProggesBar.deps.json
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project14\ProggesBar\ProggesBar\bin\Debug\net6.0-windows\ProggesBar.runtimeconfig.json
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project14\ProggesBar\ProggesBar\bin\Debug\net6.0-windows\ProggesBar.dll
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project14\ProggesBar\ProggesBar\bin\Debug\net6.0-windows\ProggesBar.pdb
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project14\ProggesBar\ProggesBar\obj\Debug\net6.0-windows\ProggesBar.Form1.resources
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project14\ProggesBar\ProggesBar\obj\Debug\net6.0-windows\ProggesBar.csproj.GenerateResource.cache
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project14\ProggesBar\ProggesBar\obj\Debug\net6.0-windows\ProggesBar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project14\ProggesBar\ProggesBar\obj\Debug\net6.0-windows\ProggesBar.AssemblyInfoInputs.cache
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project14\ProggesBar\ProggesBar\obj\Debug\net6.0-windows\ProggesBar.AssemblyInfo.cs
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project14\ProggesBar\ProggesBar\obj\Debug\net6.0-windows\ProggesBar.csproj.CoreCompileInputs.cache
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project14\ProggesBar\ProggesBar\obj\Debug\net6.0-windows\ProggesBar.dll
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project14\ProggesBar\ProggesBar\obj\Debug\net6.0-windows\refint\ProggesBar.dll
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project14\ProggesBar\ProggesBar\obj\Debug\net6.0-windows\ProggesBar.pdb
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project14\ProggesBar\ProggesBar\obj\Debug\net6.0-windows\ProggesBar.genruntimeconfig.cache
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project14\ProggesBar\ProggesBar\obj\Debug\net6.0-windows\ref\ProggesBar.dll
